@@ -1,6 +1,5 @@
 node_modules
 dist/*
 !dist/package.json
-!dist/.npmignore
 .idea
 .vscode
