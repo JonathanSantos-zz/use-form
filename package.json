@@ -5,7 +5,8 @@
   "author": "Jonathan Santos <brjs.santos@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc --declaration"
+    "build": "tsc --declaration",
+    "publish": "npm publish ./dist --access public"
   },
   "devDependencies": {
     "@types/react": "^16.9.38",
