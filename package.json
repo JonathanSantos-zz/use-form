@@ -4,7 +4,14 @@
   "main": "index.js",
   "author": "Jonathan Santos <brjs.santos@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc --declaration"
+  },
   "devDependencies": {
+    "@types/react": "^16.9.38",
     "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "name": "@jors/use-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonathan Santos <brjs.santos@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
