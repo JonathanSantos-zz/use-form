@@ -1,5 +1,5 @@
-import { useState, ChangeEvent } from "react";
-import { touchedFunction, resetTouchedFunction } from "./utils";
+import { useState, ChangeEvent } from 'react';
+import { touchedFunction, resetTouchedFunction } from './utils';
 
 type useFormProps = {
   initialValues?: object;

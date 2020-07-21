@@ -3,3 +3,5 @@ dist/*
 !dist/package.json
 .idea
 .vscode
+coverage
+yarn-error.log
